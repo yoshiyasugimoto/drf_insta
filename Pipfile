@@ -8,7 +8,7 @@ black = "*"
 
 [packages]
 django = "*"
-djangorestframework = "*"
+djangorestframework = "==3.11.1"
 djangorestframework-simplejwt = "*"
 djoser = "*"
 django-cors-headers = "*"
